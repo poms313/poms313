@@ -12,7 +12,10 @@
 <p>🐂 Html/CSS (Bootstrap)</p>
 <p>📝 Autres: React Native, MySQL, PHPMyAdmin
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poms313)](https://github.com/anuraghazra/github-readme-stats)
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poms313)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 ![](https://komarev.com/ghpvc/?username=poms313&color=red)
 <!--
 **poms313/poms313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
