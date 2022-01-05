@@ -7,7 +7,7 @@
 <p><a href="https://codepen.io/diablo313">CodePen</a></p>
 
 <h2>Skills</h2>
-<p>❤️ Phy (Symfony)</p>
+<p>❤️ PHP (Symfony)</p>
 <p>😎 JavaScript (React, Jquery)</p>
 <p>🐂 Html/CSS (Bootstrap)</p>
 <p>📝 Autres: React Native, MySQL, PHPMyAdmin
